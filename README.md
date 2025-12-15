@@ -4,7 +4,7 @@ Bem Vindo ao meu perfil! Aqui você encontra estudos e projetos e automações
 
 Sou um Estudante de Engenharia de Dados, tenho bastante gosto pela area de dados e automações Buscando cada vez mais eficiencia ao trabalho e projetos 
 
-    -Explorando novas tecnologias e aprimorando hebilidades
+    -Explorando novas tecnologias e aprimorando habilidades
     -Interresse em Automações, Banco de Dados e inteligencia Artificial, Data Science
     -Estudo Python, SQL, APIs, Banco de Dados e etc..
     -Constante Aprendizagem
