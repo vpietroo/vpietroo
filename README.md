@@ -1,4 +1,4 @@
-# Olá, Meu nome é Pietro! 👋
+# Olá, Meu nome é Pietro! 
 
 Bem Vindo ao meu perfil! Aqui você encontra estudos e projetos e automações
 
@@ -12,8 +12,8 @@ Sou um Estudante de Engenharia de Dados, tenho bastante gosto pela area de dados
 
 
 
-## 🛠 Habilidades
-Git, GitHub, Python, Pandas, SQL, Airflow, Docker, AI
+##  Habilidades
+Git, GitHub, Python, Pandas, SQL, Airflow, Docker, AI, Linux
 
 
 ## 🔗 Entre em contato
